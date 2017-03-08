@@ -76,7 +76,7 @@
 
 
 
-<img src="Data2/analysis2A.png"/>
+<img src="Data2/Analysis2A.png"/>
  
  
 
