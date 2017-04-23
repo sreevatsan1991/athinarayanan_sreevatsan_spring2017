@@ -72,7 +72,7 @@ The rating of reach restaurant in Zomato and Yelp is compared <br>
 ## The relationship between review counts, price and restaurant ratings are compared
 
 Yelp Data Plots<br>
-<img src="Output/Analysis 1/yelp1.JPG">
+<img src="Output/Analysis 1/yelp1.jpg">
 
 Zomato Data Plots
 <img src="Output/Analysis 1/zomato1.jpg">
