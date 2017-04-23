@@ -48,7 +48,7 @@ Zomato Data : <a href="Data/Zomato Data"/>Zomato Data</a>
 
 The processed data can be accessed <a href="Other Files">here</a>
 
-## ANALYSIS - 1 <img align="right" style="width:350px;height:125px;margin-top:0px;padding-top:0px;"src="Images/cloud-pricing.png"/>
+## ANALYSIS - 1 <img align="right" style="width:350px;height:125px;margin-top:0px;padding-top:0px;" src="Images/cloud-pricing.png"/>
 ## COMPARISON OF YELP AND ZOMATO DATA
 
 #### Criteria for Analysis
@@ -63,7 +63,7 @@ The rating of reach restaurant in Zomato and Yelp is compared <br>
 * After joining the yelp and zomato data, for every city, the rating of restaurants in yelp and zomato is analyzed (by using group by and mean).
 
 
-<img src="Readme images/Analysis1-yelpzomato.png">
+<img src="Readme images/Analysis1-yelpzomato.PNG">
 
 ### Graph Output
 
@@ -72,10 +72,10 @@ The rating of reach restaurant in Zomato and Yelp is compared <br>
 ## The relationship between review counts, price and restaurant ratings are compared
 
 Yelp Data Plots<br>
-<img src="Output/Analysis 1/Yelp1.jpg">
+<img src="Output/Analysis 1/yelp1.JPG">
 
 Zomato Data Plots
-<img src="Output/Analysis 1/Zomato1.jpg">
+<img src="Output/Analysis 1/zomato1.jpg">
 
 ## Inferences
 
@@ -84,7 +84,7 @@ Zomato Data Plots
 * Another inference for yelp is that the restaurants rating increases when its less expensive. For Zomato, different behavior is observed in each country.
 
 
-## ANALYSIS - 2 <img align="right" style="width:350px;height:125px;margin-top:0px;padding-top:0px;"src="Readme images/analysis2cui.jpg"/>
+## ANALYSIS - 2 <img align="right" style="width:350px;height:125px;margin-top:0px;padding-top:0px;" src="Readme images/analysis2cui.jpg"/>
 ## CUISINE ANALYSIS OF RESTAURANTS
 
 ### Criteria
@@ -113,7 +113,7 @@ Once the user enters his favourite cuisine, two iamges are displayed
 
 <img src="Output/Analysis 2/cheapres.PNG">
 
-## ANALYSIS - 3 <img align="right" style="width:350px;height:125px;margin-top:0px;padding-top:0px;"src="Readme images/rateit.jpg"/>
+## ANALYSIS - 3 <img align="right" style="width:350px;height:125px;margin-top:0px;padding-top:0px;" src="Readme images/rateit.jpg"/>
 ## ANALYSIS OF REVIEWS
 
 ## Criteria
