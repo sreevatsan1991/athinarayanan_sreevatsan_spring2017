@@ -1,0 +1,156 @@
+,city,title,count
+0,Atlanta,American (New),50
+1,Atlanta,American (Traditional),24
+2,Atlanta,Southern,24
+3,Atlanta,Breakfast & Brunch,15
+4,Atlanta,Burgers,15
+5,Auckland,Cafes,27
+6,Auckland,Breakfast & Brunch,23
+7,Auckland,Bars,20
+8,Auckland,Coffee & Tea,17
+9,Auckland,Modern European,16
+10,Austin,American (New),42
+11,Austin,Breakfast & Brunch,21
+12,Austin,American (Traditional),19
+13,Austin,Bars,16
+14,Austin,Italian,14
+15,Beckett Ridge,Italian,1
+16,Boston,American (New),24
+17,Boston,Italian,18
+18,Boston,Seafood,18
+19,Boston,Breakfast & Brunch,10
+20,Boston,American (Traditional),9
+21,Butler,Mexican,1
+22,Chelmsford,Italian,3
+23,Chelmsford,American (Traditional),2
+24,Chelmsford,Bars,1
+25,Chelmsford,Breakfast & Brunch,1
+26,Chelmsford,Desserts,1
+27,Chicago,American (New),54
+28,Chicago,American (Traditional),26
+29,Chicago,Bars,23
+30,Chicago,Cocktail Bars,22
+31,Chicago,Breakfast & Brunch,15
+32,Cincinnati,American (New),1
+33,Cincinnati,Barbeque,1
+34,Cincinnati,Cafes,1
+35,Cincinnati,Italian,1
+36,Cincinnati,Sandwiches,1
+37,Dracut,Caribbean,1
+38,Dracut,Italian,1
+39,Dracut,Laotian,1
+40,Dracut,Latin American,1
+41,Dracut,Mediterranean,1
+42,East Perth,Modern Australian,1
+43,Fairfield,American (Traditional),2
+44,Fairfield,Asian Fusion,1
+45,Fairfield,Barbeque,1
+46,Fairfield,Bars,1
+47,Fairfield,Breakfast & Brunch,1
+48,Hamilton,American (Traditional),8
+49,Hamilton,Sandwiches,7
+50,Hamilton,Mexican,6
+51,Hamilton,American (New),5
+52,Hamilton,Barbeque,4
+53,Houston,American (New),21
+54,Houston,Southern,12
+55,Houston,Bars,10
+56,Houston,Sandwiches,10
+57,Houston,Seafood,9
+58,Liberty Township,American (New),4
+59,Liberty Township,Breakfast & Brunch,2
+60,Liberty Township,Pubs,1
+61,Liberty Township,Vegetarian,1
+62,Liberty Township,Wine Bars,1
+63,Los Angeles,American (New),23
+64,Los Angeles,Italian,10
+65,Los Angeles,Breakfast & Brunch,9
+66,Los Angeles,Asian Fusion,8
+67,Los Angeles,American (Traditional),7
+68,Lowell,American (New),8
+69,Lowell,American (Traditional),8
+70,Lowell,Pizza,8
+71,Lowell,Cambodian,7
+72,Lowell,Sandwiches,7
+73,Mason,American (New),1
+74,Mason,Cafes,1
+75,Mason,Lebanese,1
+76,Mason,Mediterranean,1
+77,Melbourne,Asian Fusion,13
+78,Melbourne,Bars,11
+79,Melbourne,Italian,9
+80,Melbourne,Tapas/Small Plates,9
+81,Melbourne,Cafes,8
+82,Middletown,American (Traditional),1
+83,Middletown,Barbeque,1
+84,Middletown,Greek,1
+85,Middletown,Mediterranean,1
+86,Monroe,Barbeque,1
+87,Monroe,Breweries,1
+88,Monroe,Pubs,1
+89,Montreal,French,17
+90,Montreal,Canadian (New),14
+91,Montreal,Bars,8
+92,Montreal,Japanese,7
+93,Montreal,Breakfast & Brunch,5
+94,Orlando,American (New),39
+95,Orlando,Seafood,25
+96,Orlando,Burgers,18
+97,Orlando,American (Traditional),17
+98,Orlando,Cocktail Bars,15
+99,Ottawa,Canadian (New),21
+100,Ottawa,Seafood,7
+101,Ottawa,Gastropubs,6
+102,Ottawa,Italian,6
+103,Ottawa,Breakfast & Brunch,5
+104,Oxford,American (Traditional),2
+105,Oxford,Bars,1
+106,Oxford,German,1
+107,Oxford,Italian,1
+108,Oxford,Sports Bars,1
+109,Perth,Bars,13
+110,Perth,Modern Australian,13
+111,Perth,Breakfast & Brunch,10
+112,Perth,Australian,9
+113,Perth,Cafes,8
+114,San Jose,Asian Fusion,20
+115,San Jose,Japanese,17
+116,San Jose,Korean,14
+117,San Jose,Seafood,14
+118,San Jose,Vietnamese,14
+119,Seattle,American (New),24
+120,Seattle,Breakfast & Brunch,12
+121,Seattle,Cocktail Bars,11
+122,Seattle,Bars,10
+123,Seattle,Seafood,10
+124,Springdale,Cajun/Creole,1
+125,Springdale,Colombian,1
+126,Springdale,Mexican,1
+127,Springdale,Seafood,1
+128,Sydney,Bars,17
+129,Sydney,Japanese,16
+130,Sydney,Australian,14
+131,Sydney,Breakfast & Brunch,14
+132,Sydney,Burgers,14
+133,Tampa,American (New),22
+134,Tampa,American (Traditional),10
+135,Tampa,Seafood,9
+136,Tampa,Bars,8
+137,Tampa,Italian,8
+138,Toronto,Canadian (New),31
+139,Toronto,Italian,19
+140,Toronto,Comfort Food,14
+141,Toronto,Bars,12
+142,Toronto,Japanese,12
+143,Tyngsborough,American (Traditional),1
+144,West Chester,Mediterranean,2
+145,West Chester,Cheesesteaks,1
+146,West Chester,Greek,1
+147,West Chester,Lebanese,1
+148,West Chester,Tapas Bars,1
+149,West Chester Township,Chinese,1
+150,West Chester Township,Japanese,1
+151,West Chester Township,Korean,1
+152,West Chester Township,Thai,1
+153,Wyoming,Gastropubs,1
+154,Wyoming,Wine Bars,1
