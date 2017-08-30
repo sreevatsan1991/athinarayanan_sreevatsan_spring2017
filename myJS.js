@@ -1,5 +1,4 @@
-alert("inside js");
-/*var myPlot = document.getElementById('map');
+var myPlot = document.getElementById('map');
 
 myPlot.on('plotly_click', function(data){
     var pts = '';
@@ -8,4 +7,4 @@ myPlot.on('plotly_click', function(data){
             data.points[i].y.toPrecision(4) + '\n\n';
     }
     alert('Closest point clicked:\n\n'+pts);
-});*/
+});
