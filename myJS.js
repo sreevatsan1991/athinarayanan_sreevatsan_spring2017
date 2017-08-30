@@ -1,6 +1,6 @@
 var myPlot = document.getElementById('map');
 
-myPlot.on('plotly_click', function(data){
+myPlot.on('plotly_click', function(){
     /*var pts = '';
     for(var i=0; i < data.points.length; i++){
         pts = 'x = '+data.points[i].x +'\ny = '+
